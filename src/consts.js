@@ -1,5 +1,5 @@
 export const SITE_TITLE = `Joey Blog`;
-export const SITE_DESCRIPTION = '分享我经历过的事情、学习过的知识、发现的好东西。';
+export const SITE_DESCRIPTION = '分享我经历过的事情、学习过的知识、发现的好东西.';
 export const SITE_EMAIL = 'joey1904@163.com'
 export const SITE_NAME = 'astro.yufengbiji.com';
 export const SITE_URL = "https://astro.yufengbiji.com";
